@@ -24,10 +24,12 @@
 header,nav,main,footer,aside,article,section{
     display: block; 
 }
-body{
-    position: relative;
-}
+
+
+
+
 header{
     position: relative;
     width: 1670px;
 }
+

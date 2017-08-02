@@ -65,6 +65,9 @@ width: 400px;
     list-style-type: none;
     direction: rtl;
  }
+ .secondary_video_details.thin_text{
+    width: 220px;
+ }
  .secondary_video_details li:nth-child(2){
     color:black;
  }
@@ -121,13 +124,14 @@ width: 400px;
       right: 226px;
     top: 272px;
  }
- .top_asside{
+/* .top_asside{
      list-style-type: none;
      direction: ltr;
      width: initial;
      display: inline-block;
+     width:220px;
  }
-
+*/
 
 .thin_text{
     font-size: 27px;
