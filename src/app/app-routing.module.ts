@@ -17,7 +17,8 @@ const appRoutes: Routes=[
 {path:'upload', component: UploadComponent },
 {path:'show-all-location', component: ShowAllLocationComponent },
 {path:'video-list', component:VideoListComponent},
-{path:'search',component:SearchPageComponent}
+{path:'search',component:SearchPageComponent},
+{path:'last-uploads',component:ShowLastUploadsComponent}
 
 
 
